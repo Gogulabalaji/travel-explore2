@@ -14,7 +14,7 @@ const About = () => {
           </p>
           <p>
             From solo adventures to family getaways, we’re committed to making your journeys memorable and stress-free.
-            Let us take care of the planning while you enjoy the exploring.
+            Let us take care of the planning while you enjoy the .
           </p>
         </div>
         <div className="about-image">
